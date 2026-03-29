@@ -14,9 +14,3 @@ A clean, production-ready Anchor program demonstrating core SPL Token operations
 - [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
 - [Anchor](https://www.anchor-lang.com/docs/installation) (v0.30.x)
 - Node.js 18+ & [Yarn](https://yarnpkg.com/)
-
-## Quick Start
-
-1. **Install dependencies:**
-   ```bash
-   yarn install
